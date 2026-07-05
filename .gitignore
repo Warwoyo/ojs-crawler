@@ -21,10 +21,7 @@ datasets/.crawler_notes.json
 .crawler_notes.json
 
 # Generated datasets (keep the folder, ignore large outputs).
-# Comment these out if you want to version specific reference datasets.
-datasets/*.jsonl
-datasets/*.csv
-
+# Comment these out if you want to version specific reference d
 # Exploratory / smoke outputs
 archive/smoke/*.jsonl
 archive/smoke/*.csv
